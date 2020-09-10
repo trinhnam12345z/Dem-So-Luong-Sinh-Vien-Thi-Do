@@ -1,0 +1,12 @@
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\bin\Debug\netcoreapp3.1\DemSoLuongSvThiDo.exe
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\bin\Debug\netcoreapp3.1\DemSoLuongSvThiDo.deps.json
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\bin\Debug\netcoreapp3.1\DemSoLuongSvThiDo.runtimeconfig.json
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\bin\Debug\netcoreapp3.1\DemSoLuongSvThiDo.runtimeconfig.dev.json
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\bin\Debug\netcoreapp3.1\DemSoLuongSvThiDo.dll
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\bin\Debug\netcoreapp3.1\DemSoLuongSvThiDo.pdb
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\obj\Debug\netcoreapp3.1\DemSoLuongSvThiDo.AssemblyInfoInputs.cache
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\obj\Debug\netcoreapp3.1\DemSoLuongSvThiDo.AssemblyInfo.cs
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\obj\Debug\netcoreapp3.1\DemSoLuongSvThiDo.csproj.CoreCompileInputs.cache
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\obj\Debug\netcoreapp3.1\DemSoLuongSvThiDo.dll
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\obj\Debug\netcoreapp3.1\DemSoLuongSvThiDo.pdb
+E:\BT C#\DemSoLuongSvThiDo\DemSoLuongSvThiDo\obj\Debug\netcoreapp3.1\DemSoLuongSvThiDo.genruntimeconfig.cache
